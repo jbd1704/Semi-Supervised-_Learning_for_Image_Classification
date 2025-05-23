@@ -36,5 +36,5 @@ UDA significantly improves performance compared to supervised learning with only
 
 | Model            | # Labeled Samples | Test Accuracy |
 |------------------|-------------------|----------------|
-| Supervised CNN   | 100               |  81%   |
+| Supervised CNN   | 100               |  79%   |
 | CNN + UDA (Ours) | 100 + unlabeled   |  97%   |
